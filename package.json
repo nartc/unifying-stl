@@ -10,7 +10,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": " npm install bootstrap@4.0.0-alpha.6 && ng build"
+    "postinstall": "ng build"
   },
   "private": true,
   "dependencies": {
